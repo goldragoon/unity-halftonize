@@ -2,9 +2,10 @@
 
 Unity project for generating halftone style art in 3d environment.
 
-![](.\README_RESOURCES\images\unity-halftonize-usage.gif)
+![](README_RESOURCES/images/unity-halftonize-usage.gif)
 
- The images in table below shows the rendering result through different combination of parameter values.
+ The table below shows the rendering result through different combination of parameter values.
+ The unity scene file for the images in the table is stored at Assets/Scenes/Sample/BunnyScene.unity
 
 <table style="table-layout: auto; border-collapse: collapse;width: 100%;">
 <tr>
