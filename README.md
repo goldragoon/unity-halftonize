@@ -1,9 +1,9 @@
 # unity-halftonize
 
 Unity project for generating halftone style art in 3d environment.
+![]()
 
- The table below shows the rendering result through parameter setting.
-
+The table below shows the rendering result through parameter setting.
 <table>
 <tr>
 <th></th>
@@ -12,16 +12,17 @@ Unity project for generating halftone style art in 3d environment.
 </tr>
 <!-- Line 1: Thickness : 5 -->
 <tr>
-<td>Thickness : 5</td>
+<td>Thickness : 10</td>
 <td></td>
 <td></td>
 </tr>
 <!-- Line 2: Thickness : 10 -->
 <tr>
-<td>Thickness : 10</td>
+<td>Thickness : 15</td>
 <td></td>
 <td></td>
 </tr>
+</table>
 
 ## Getting Started
 
